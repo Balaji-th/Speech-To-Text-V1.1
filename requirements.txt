@@ -1,0 +1,3 @@
+gradio
+faster_whisper
+torch
